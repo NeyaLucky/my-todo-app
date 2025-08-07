@@ -1,5 +1,4 @@
 altair==5.5.0
-ament-index-python==1.4.0
 attrs==25.3.0
 blinker==1.9.0
 cachetools==6.1.0
